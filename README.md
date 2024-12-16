@@ -71,7 +71,7 @@ Here’s an overview of the database structure:
 - **rider_id**: Linked to the `riders` table
 - **delivery_status**: Status of the delivery 
 - **delivery_time**: Time the order was delivered
-- 
+
 ## ERD (Entity-Relationship Diagram)
 
 ![ERD Placeholder](https://github.com/sureka2003/Swiggy/blob/main/Swiggy%20ERD.png)
