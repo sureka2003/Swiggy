@@ -70,7 +70,12 @@ Here’s an overview of the database structure:
 - **order_id**: Linked to the `orders` table
 - **rider_id**: Linked to the `riders` table
 - **delivery_status**: Status of the delivery 
-- **delivery_time**: Time the order was delivered 
+- **delivery_time**: Time the order was delivered
+- 
+## ERD (Entity-Relationship Diagram)
+
+![ERD Placeholder](https://github.com/sureka2003/Swiggy/blob/main/Swiggy%20ERD.png)
+
 
 ## Business Problems
 
@@ -131,7 +136,6 @@ Feel free to add your questions and code snippets below and submit them as issue
 
 ---
 
-## ERD (Entity-Relationship Diagram)
 
 ## Notice:
 All customer names and data used in this project are computer-generated using AI and random
@@ -139,4 +143,4 @@ functions. They do not represent real data associated with swiggy or any other e
 project is solely for learning and educational purposes, and any resemblance to actual persons,
 businesses, or events are purely coincidental.
 
-![ERD Placeholder](https://github.com/najirh/Flipkart--SQL-Project-B01/blob/main/Flipkart%20Project%20Schemas.png)
+
