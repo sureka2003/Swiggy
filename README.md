@@ -1,6 +1,6 @@
 # Swiggy Real Dataset Analysis project
 
-![Project Banner Placeholder](https://github.com/sureka2003/Swiggy/blob/main/Swiggy%20image.jpg)
+![Project Banner Placeholder](https://github.com/sureka2003/Swiggy/blob/main/Swiggy.png.jpg)
 
 Welcome to my **Swiggy Real Dataset Analysis project!** 🚀
 This repository showcases my work on normalizing a denormalized Swiggy dataset and solving key business problems using structured tables such as **Orders, Customers, Deliveries, Riders, and Restaurants.** By applying data normalization techniques, I optimized data structure and carried out insightful analyses to address real-world challenges faced by food delivery platforms.
