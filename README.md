@@ -82,24 +82,24 @@ Here’s an overview of the database structure:
 The following queries were created to solve specific business questions. Each query is designed to provide insights based on orders, customers, riders, deliveries and restaurant data.
 
 ### Easy 
-1. `Add your questions here`
-2. `Add your questions here`
-3. `Add your questions here`
-4. `Add your questions here`
-5. `Add your questions here`
+1. ` Write a query to find the top 5 most frequently ordered dishes by the customer "Arjun Mehta" in the last 1 year.`
+2. `Find the average order value (AOV) per customer who has placed more than 750 orders. Return: customer_name, AOV(average order value).`
+3. `Determine each rider's average delivery time.`
+4. `Identify the time slots during which the most orders are placed, based on 2-hour intervals`
+5. `Rank restaurants by their total revenue from the last year.`
    
 ### Medium to Hard
-1. `Add your questions here`
-2. `Add your questions here`
-3. `Add your questions here`
-4. `Add your questions here`
-5. `Add your questions here`
+1. ` Identify the most popular dish in each city based on the number of orders.`
+2. `Calculate each restaurant's growth ratio based on the total number of delivered orders since its joining.`
+3. `Calculate each rider's total monthly earnings,assuming they earn 8% of the order amount.`
+4. `Find the number of 5-star, 4-star, and 3-star ratings each rider has.Riders receive ratings based on delivery time: ● 5-star: Delivered in less than 15 minutes ● 4-star: Delivered between 15 and 20 minutes ● 3-star: Delivered after 20 minutes`
+5. `Identify sales trends by comparing each month's total sales to the previous month.`
    
 ---
 
 ## SQL Queries & Analysis
 
-The `queries.sql` file contains all SQL queries developed for this project. Each query corresponds to a business problem and demonstrates skills in SQL syntax, data filtering, aggregation, grouping, and ordering, as well as more intermediate topics such as Joins, Subqueries, Window Functions.
+The `analysis.sql` file contains all SQL queries developed for this project. Each query corresponds to a business problem and demonstrates skills in SQL syntax, data filtering, aggregation, grouping, and ordering, as well as more intermediate topics such as Joins, Subqueries, Window Functions.
 
 ---
 
